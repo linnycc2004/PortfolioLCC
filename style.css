@@ -65,7 +65,7 @@ nav: first-child {
 	max-width: 270px;
 	padding: 30px;
 	margin-bottom: 20px;
-	background: yellow;
+	background: pink;
 	border: 1px solid #ddd;
 }
 
@@ -81,4 +81,14 @@ h3, .sidebar h2 {
 	height: 62px;
 	margin-top: 8px;
 	margin-right: 5px;
+}
+
+footer {
+	padding: 30px 0;
+	clear: both;
+	font-size: 12px;
+	color: pink;
+	text-align: center;
+	background: #141087;
+	border-top: 8px solid blue;
 }
