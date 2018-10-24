@@ -92,3 +92,11 @@ footer {
 	background: #141087;
 	border-top: 8px solid blue;
 }
+
+.work {
+	position: relative;
+	float: left;
+	width: 274px;
+	margin: 20px 0 25px;
+	overflow: auto;
+}
